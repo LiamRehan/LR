@@ -1,3 +1,3 @@
 # LR
-Schoolproject
-Have a lot of fun with it
+School Project
+Have a lot of fun with or without it
